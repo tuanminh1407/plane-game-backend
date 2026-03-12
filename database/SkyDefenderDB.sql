@@ -12,4 +12,4 @@ CREATE TABLE dbo.Users (
 );
 
 INSERT INTO dbo.Users (Username, PasswordHash)
-VALUES (N'player01', N'$2a$10$/uYIhxofBnplyHkuoVPWQu8WYVCDhSwFIeSfFjImo315mZEk/F/wy');
+VALUES (N'player1', N'$2a$10$/uYIhxofBnplyHkuoVPWQu8WYVCDhSwFIeSfFjImo315mZEk/F/wy');
